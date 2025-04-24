@@ -1,0 +1,11 @@
+{
+  "name": "tboy-tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
